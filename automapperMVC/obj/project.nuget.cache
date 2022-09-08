@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "an8nu+g1u40VKLf5OLuW+7MfBIlQKHDnkthj0wxXm+vT+gRCxEHObxnpCZzSzQS/KEKVSW56jaThb1Pmf4Mw0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\qadil\\source\\repos\\automapperMVC\\automapperMVC\\automapperMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qadil\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\qadil\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\qadil\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\qadil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\qadil\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\qadil\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\qadil\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
